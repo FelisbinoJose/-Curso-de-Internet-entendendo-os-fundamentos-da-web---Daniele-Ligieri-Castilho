@@ -37,3 +37,21 @@
   - Custo e tempo.
 
   - Fios do telefone para transmitit dados
+
+---
+
+# Banda Larga
+
+  - Evolução instrutural
+
+  - Sem uso de cabos de telefonia.
+
+---
+
+# Roteador de Wifi
+
+  - Sem conexão com linha de telefone
+  
+  - Conexão via modem.
+
+
