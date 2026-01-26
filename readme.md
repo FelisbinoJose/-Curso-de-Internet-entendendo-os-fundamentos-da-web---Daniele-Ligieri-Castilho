@@ -23,3 +23,17 @@
   - Protoco de comunicação (NCP)
 
   - Vinton Cer e Bob Kahn criaram o protoco tcp-ip para todos se comunicarem.
+
+---
+
+# A era da internet discada
+
+  - Conexão nos anos 90 e 2000.
+
+  - Ocupação da linha telefônica.
+
+  - Infraestrutura de telefonia.
+
+  - Custo e tempo.
+
+  - Fios do telefone para transmitit dados
