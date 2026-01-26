@@ -54,4 +54,9 @@
   
   - Conexão via modem.
 
+---
+
+# Redes móveis
+
+  - Conexão remota através do celular.
 
