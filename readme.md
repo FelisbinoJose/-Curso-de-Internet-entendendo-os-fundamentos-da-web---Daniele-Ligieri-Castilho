@@ -59,4 +59,24 @@
 # Redes móveis
 
   - Conexão remota através do celular.
+---
+
+# interface gopher
+
+  - Projeto sem interface grafica para navergar pele rede
+
+ ---
+
+ # World wide wibe (WWW)
+
+ - Tim Berners-Lee
+ - Projeto desenvolvido para facilitar a nevegação de rede.
+ - Tecnologia principais: "HTML", "HTTP" e "URL".
+ - 1981 criação da primeira página Web.
+
+---
+
+
+
+
 
