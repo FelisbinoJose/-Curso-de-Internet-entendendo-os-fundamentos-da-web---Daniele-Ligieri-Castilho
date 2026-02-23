@@ -21,3 +21,8 @@
 ### 27/12/2025 - [1a aula](https://github.com/FelisbinoJose/-Curso-de-Internet-entendendo-os-fundamentos-da-web---Daniele-Ligieri-Castilho/tree/1a-aula)
 
 > - O que é internet?
+
+
+### 23/02/2026 - [2a aula](https://github.com/FelisbinoJose/-Curso-de-Internet-entendendo-os-fundamentos-da-web---Daniele-Ligieri-Castilho/tree/2a-aula)
+
+> - Entendendo a relação cliente servidor.
