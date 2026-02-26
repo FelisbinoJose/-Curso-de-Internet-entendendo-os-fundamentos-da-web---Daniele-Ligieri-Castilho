@@ -26,3 +26,7 @@
 ### 23/02/2026 - [2a aula](https://github.com/FelisbinoJose/-Curso-de-Internet-entendendo-os-fundamentos-da-web---Daniele-Ligieri-Castilho/tree/2a-aula)
 
 > - Entendendo a relação cliente servidor.
+
+### 26/02/2026 - [3a aula](https://github.com/FelisbinoJose/-Curso-de-Internet-entendendo-os-fundamentos-da-web---Daniele-Ligieri-Castilho/tree/3a-aula)
+
+> - Como o computador entende os dados?
