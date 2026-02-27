@@ -8,3 +8,8 @@
 
   - Conteúdos dinâmicos feitos por vários usuários.
   - Mudandça de comportamento e estrutura dos sites 
+
+##  A web vai para o bolso
+
+  - Reoganizar conteúdo em telas menores.
+  - Imagens com carregamento rápido.
