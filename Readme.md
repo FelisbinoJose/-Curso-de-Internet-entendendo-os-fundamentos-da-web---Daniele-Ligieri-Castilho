@@ -30,3 +30,7 @@
 ### 26/02/2026 - [3a aula](https://github.com/FelisbinoJose/-Curso-de-Internet-entendendo-os-fundamentos-da-web---Daniele-Ligieri-Castilho/tree/3a-aula)
 
 > - Como o computador entende os dados?
+
+### 27/02/2026 - [4a aula](https://github.com/FelisbinoJose/-Curso-de-Internet-entendendo-os-fundamentos-da-web---Daniele-Ligieri-Castilho/tree/4a-aula)
+
+> - Desvendando a evolução da web.
