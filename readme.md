@@ -13,4 +13,4 @@
 
 # Cliente e um servidor
 
-cliente (usuário) -> garçom (Navegador) -> Cozinha (Servidor).
+cliente (usuário) -> garçom (Navegador) -> Cozinha (Servidor)
