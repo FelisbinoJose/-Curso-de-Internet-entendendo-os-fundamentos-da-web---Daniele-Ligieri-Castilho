@@ -17,7 +17,7 @@ cliente (usuário) -> garçom (Navegador) -> Cozinha (Servidor)
 
 ----
 
-# Como os dados trafegam ma interner
+# Como os dados trafegam ma internert
 
   1. Exemplo de entregador e endereço.
   2. TCP (Protocolo de transmissão), IP (Endereço númerico), DNS (Conversor domínio em IPs) e ROTEADORES (Indicador caminhos).
