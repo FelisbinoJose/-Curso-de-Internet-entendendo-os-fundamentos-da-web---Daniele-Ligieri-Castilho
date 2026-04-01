@@ -21,3 +21,5 @@ cliente (usuário) -> garçom (Navegador) -> Cozinha (Servidor)
 
   1. Exemplo de entregador e endereço.
   2. TCP (Protocolo de transmissão), IP (Endereço númerico), DNS (Conversor domínio em IPs) e ROTEADORES (Indicador caminhos).
+
+---
